@@ -1,0 +1,1 @@
+winget install -e --id VideoLAN.VLC;winget install -e --id Gyan.FFmpeg;winget install -e --id KDE.Kdenlive;winget install -e --id Audacity.Audacity;winget install -e --id dotPDNLLC.paintdotnet;winget install -e --id KDE.Krita;winget install -e --id GIMP.GIMP;winget install -e --id HandBrake.HandBrake;winget install -e --id AdrienAllard.FileConverter

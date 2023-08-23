@@ -1,0 +1,1 @@
+winget install -e --id SoftMaker.FreePDF.2022;winget install -e --id SoftMaker.FreeOffice.2021;winget install -e --id Obsidian.Obsidian;winget install -e --id Notepad++.Notepad++

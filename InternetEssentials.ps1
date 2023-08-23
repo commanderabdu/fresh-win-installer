@@ -1,0 +1,1 @@
+winget install -e --id Bitwarden.Bitwarden;winget install -e --id Mozilla.Firefox;winget install -e --id Mozilla.Thunderbird;winget install -e --id SoftDeluxe.FreeDownloadManager

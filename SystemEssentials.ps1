@@ -1,0 +1,1 @@
+winget install -e --id CrystalDewWorld.CrystalDiskMark;winget install -e --id CrystalDewWorld.CrystalDiskInfo;winget install -e --id Guru3D.Afterburner;winget install -e --id FinalWire.AIDA64.Extreme;winget install -e --id voidtools.Everything;winget install -e --id GlennDelahoy.SnappyDriverInstallerOrigin
