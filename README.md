@@ -5,7 +5,7 @@ Powershell Scripts for Installing Software Easily
 ### Windows Essentials:
 - DirectX Runtime
 - Visual C++ Redistributable 2005-2022
--.NET Desktop Runtime 3.1-7
+- .NET Desktop Runtime 3.1-7
 - Java 8 & 17
 - Python, 7-Zip
 
