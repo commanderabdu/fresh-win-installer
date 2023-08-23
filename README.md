@@ -1,5 +1,5 @@
 # fresh-win-installer
-Powershell Scripts for Installing Software Easily
+Powershell Scripts for Installing Software Easily to Get You Started on Your Fresh Windows Installation
 
 ## Software Included:
 ### Windows Essentials:
